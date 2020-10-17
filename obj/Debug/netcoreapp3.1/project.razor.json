@@ -14402,6 +14402,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-identity\\Views\\Home\\SecretClaimGravar.cshtml",
+      "TargetPath": "Views\\Home\\SecretClaimGravar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-identity\\Views\\Home\\ClaimCustom.cshtml",
+      "TargetPath": "Views\\Home\\ClaimCustom.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-identity\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -14434,6 +14444,21 @@
     {
       "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-identity\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-identity\\Views\\Teste\\Index.cshtml",
+      "TargetPath": "Views\\Teste\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-identity\\Views\\Home\\SecretClaim.cshtml",
+      "TargetPath": "Views\\Home\\SecretClaim.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-identity\\Views\\Home\\Secret.cshtml",
+      "TargetPath": "Views\\Home\\Secret.cshtml",
       "FileKind": "mvc"
     },
     {

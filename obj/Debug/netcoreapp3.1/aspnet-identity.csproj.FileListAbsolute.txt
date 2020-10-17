@@ -187,3 +187,13 @@ C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\runtimes\win-ar
 C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Lucas\Documents\aspnet-identity\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Lucas\Documents\aspnet-identity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\Lucas\Documents\aspnet-identity\obj\Debug\netcoreapp3.1\Razor\Views\Home\SecretClaim.cshtml.g.cs
+C:\Users\Lucas\Documents\aspnet-identity\obj\Debug\netcoreapp3.1\Razor\Views\Home\SecretClaimGravar.cshtml.g.cs
+C:\Users\Lucas\Documents\aspnet-identity\obj\Debug\netcoreapp3.1\Razor\Views\Home\ClaimCustom.cshtml.g.cs
+C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\KissLog.dll
+C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\KissLog.AspNetCore.dll
+C:\Users\Lucas\Documents\aspnet-identity\bin\Debug\netcoreapp3.1\KissLog.CloudListeners.dll
+C:\Users\Lucas\Documents\aspnet-identity\obj\Debug\netcoreapp3.1\Razor\Views\Teste\Index.cshtml.g.cs
